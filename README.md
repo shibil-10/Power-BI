@@ -49,9 +49,8 @@ Repository Structure
 Gloabl ecommerce-sales-dashboard/
 ├── README.md
 ├── E-Commerce_Sales_Project.pbix
-├── global_ecommerce_sales_power_bi.xlsx
-└── screenshots/
-    └── dashboard_overview.png
+└── global_ecommerce_sales_power_bi.xlsx
+
 
 How to Use
 
